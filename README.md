@@ -35,6 +35,16 @@ The purpose of this tool is to facilitate the collection and management of data 
 
 
 ```
+└── basketleague-manager-access-based-registration-analytics-system/
+    ├── README.md
+    ├── LICENSE
+    ├── documentation/
+    │   ├── forms.md
+    │   ├── queries.md
+    │   └── tables.md
+    └── tool/
+        └── BasketLeague_manager.zip
+
 ```
 
 
