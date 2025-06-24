@@ -51,4 +51,15 @@ The purpose of this tool is to facilitate the collection and management of data 
 # Disclaimer
 > This tool is a **prototype** based on NBA operations and may be adapted to suit local or custom league needs. The data used for this are outdated.
 
-# Screenshot of the interface
+# Screenshot of the interface  
+![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/accueil_2.png)ç
+--
+![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/game_recap.png)
+--
+![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/workforce.png)
+--
+![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/person_3.png)
+--
+![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/sponsors.png)
+--
+![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/franchises.png)
